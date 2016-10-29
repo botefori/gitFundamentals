@@ -1,2 +1,3 @@
-Hello, git
-Im adding a new line to my readme fil
+1-Hello, git
+2-Hello, againi
+3-Updating README.txt with new informations
